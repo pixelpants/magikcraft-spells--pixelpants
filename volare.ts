@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function fly() {
+function volare() {
     magik.volare();
 }
 
